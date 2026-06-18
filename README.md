@@ -1,4 +1,3 @@
-```markdown
 # QR Code Generator with Optional Logo
 
 A self-contained utility to generate high-quality QR codes with an optional custom logo overlaid in the exact center. The project includes an automated Bash wrapper script (`run.sh`) that takes care of all setup prerequisites automatically—including creating a Python virtual environment, updating pip, installing dependencies, and running the code cleanly.
